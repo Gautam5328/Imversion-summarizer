@@ -4,6 +4,8 @@ Project setup
 
 frontend - nextjs code with typescript
 run on http://localhost:3000
+use node version >= 18.18.0 
+
 commands - 
 npm install - install the required frontend dependecies 
 npm run dev - run frontend project
@@ -14,7 +16,7 @@ backend - nodejs with graphql
 used apollo-server-express and express for creating server
 runs on http://localhost:4000/graphql
 
-commands - 3
+commands - 
 npm install - install the required backend dependecies 
 npm start - run backend project
 
