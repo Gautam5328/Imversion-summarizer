@@ -26,6 +26,9 @@ summarizer - python code for langchain service
 used flask to create route /summarize which summarizes the text and returns to backend service
 runs on http://127.0.0.1:5000
 
+*** NOTE ****
+Please add your OPENAI_API_KEY api key to .env file in summarizer folder as my api limits have been reached 
+
 commands - 
 source venv/bin/activate - Activate the Virtual Environment
 pip install
